@@ -26,7 +26,7 @@ The task is this: __Determine the difference in player behavior when they’re w
 Be sure to look at the problem carefully, while we are looking at overall patterns amongst players, *how* you break up a 
 player's performance into winning, losing, and maintaining is important. 
 
-If you have any questions please reach out to Travis at Travis.barton@pivotallifesciences.com.
+If you have any questions please reach out to Travis at shiva.amiri@pivotallifesciences.com.
 
 ### Exercise 2: Financial data
 
